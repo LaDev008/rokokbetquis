@@ -24,7 +24,7 @@
         @if ($show_menu)
             <img src="/storage/page/icon/close.webp" alt="Alat Togel" width="100px" height="100px" wire:click="toggleMenu">
         @else
-            <img src="/storage/page/icon/tools.png" alt="Alat Togel" width="100px" height="100px" wire:click="toggleMenu">
+            <img src="/storage/page/icon/tools.webp" alt="Alat Togel" width="100px" height="100px" wire:click="toggleMenu">
         @endif
     </div>
     <label class="neon-text bg-dark text-center">Alat Togel</label>
