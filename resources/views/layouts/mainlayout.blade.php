@@ -39,12 +39,12 @@
         <header class="row g-0 fixed-top">
             <div
                 class="d-flex justify-content-center align-items-center flex-column-reverse flex-lg-column col-12 col-lg-8 text-center mx-auto font-digital navbar-container">
-                <img src="/storage/page/image/banner-gif.jpg" alt="Prediksi Paman Sam" width="100%" height="170px"
+                <img src="/storage/page/image/banner-gif.jpg" alt="banner selamat datang" width="100%" height="170px"
                     class="d-none d-lg-block">
                 <nav class="navbar navbar-dark w-100 navbar-expand-lg fs-4">
                     <div class="container-fluid position-relative d-flex justify-content-center g-0 py-1 py-lg-0">
                         <a href="{{ route('home') }}" class="d-lg-none w-100">
-                            <img src="/storage/page/image/banner-gif.jpg" alt="Logo Nana4D" width="100%"
+                            <img src="/storage/page/image/banner-gif.jpg" alt="banner selamat datang" width="100%"
                                 height="125px">
                         </a>
                         <div class="offcanvas offcanvas-end text-bg-dark text-start" tabindex="-1" id="mainNavbar"
@@ -86,8 +86,8 @@
                                     <li class=" col text-nowrap nav-item d-flex align-items-center">
                                         <a class="nav-link @if (request()->routeIs('site')) active @endif"
                                             aria-current="page" href="{{ route('site') }}"><span><img
-                                                    src="/storage/page/icon/blue-sphere.webp" alt="info situs rokokslot"
-                                                    title="info situs rokokslot"></span> INFO SITUS ROKOKBET</a>
+                                                    src="/storage/page/icon/blue-sphere.webp" alt="info situs"
+                                                    title="info situs"></span> INFO SITUS</a>
                                     </li>
 
 
@@ -107,8 +107,7 @@
                                         <a class="nav-link @if (request()->routeIs('event')) active @endif"
                                             aria-current="page" href="{{ route('event') }}"><span><img
                                                     src="/storage/page/icon/medal.webp"
-                                                    alt="Lomba Togel Nana4D & Nono4D"></span> Lomba
-                                            Togel</a>
+                                                    alt="Room Lomba"></span> Room Lomba</a>
                                     </li>
                                 </ul>
                             </div>
