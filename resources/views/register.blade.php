@@ -13,7 +13,7 @@
 
         <form action="{{ route('register') }}" method="post" class=" neon-border bg-dark p-lg-5 register-form">
             @csrf
-            <h1 class="text-white text-center neon-text">DAFTAR AKUN MEMBER LIVEDRAW NANA4D</h1>
+            <h1 class="text-white text-center neon-text">DAFTAR AKUN {{config('app.name', '')}}</h1>
             <div class="">
                 <label for="name">Nama</label>
                 <input type="text" class="form-control" id="name" required name="name">
