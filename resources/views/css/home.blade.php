@@ -1,13 +1,13 @@
 <style>
     button {
-        background: linear-gradient(45deg, purple, rebeccapurple, magenta, fuchsia);
+        background: linear-gradient(45deg, #fff47a 0%, #ffea00 55%, #cfa800 100%);
         color: white !important;
         font-weight: 700 !important;
         transition: all .5s linear;
     }
 
     button:hover {
-        background: linear-gradient(-45deg, purple, rebeccapurple, magenta, fuchsia);
+        background: linear-gradient(-45deg, #fff47a 0%, #ffea00 55%, #cfa800 100%);
         color: black !important;
     }
 

@@ -53,7 +53,7 @@
         font-family: 'Chakra Petch', sans-serif;
         z-index: 33;
         font-size: 1.5vw;
-        text-shadow: 4px 4px 2px black;
+        text-shadow: 2px 2px 4px black;
     }
 
     .nav-link, #mainNavbar > div.offcanvas-body > ul > li:nth-child(1) > a {
@@ -61,7 +61,7 @@
     }
 
     .button-gradient:hover {
-        box-shadow: 2px 2px 8px magenta, -2px -2px 8px magenta;
+        box-shadow: 2px 2px 8px #fff47a, -2px -2px 8px #cfa800;
         cursor: pointer;
         color: white !important;
     }
@@ -214,7 +214,7 @@
 
     body {
         min-height: 100vh;
-        background: url("/storage/page/background.webp");
+        background: url("/storage/page/background.jpg");
         background-size: cover;
         background-attachment: fixed;
         color: #ffffff;

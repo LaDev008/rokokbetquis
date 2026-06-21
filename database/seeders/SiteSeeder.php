@@ -31,11 +31,10 @@ class SiteSeeder extends Seeder
         ];
 
         foreach ($sites as $site) {
-            Site::create([
-                'name' => $site['name'],
-                'link' => $site['link'],
-                'image' => $site['image'],
-            ]);
+            Site::updateOrCreate(
+                ['name' => $site['name']],
+                $site
+            );
         }
     }
 }
