@@ -52,8 +52,8 @@
             <div class="col-12 mt-4">
                 <div class="alert alert-warning" role="alert">
                     <h3 class="text-black">PERHATIAN !!</h3>
-                    <h6>Isilah data dengan benar sesuai dengan akun yang terdaftar di Situs Nana4D. Agar mempermudah proses
-                        pembagian hadiah event - event togel.</h6>
+                    <h6>Isilah data dengan benar sesuai dengan akun yang terdaftar di Situs Rokokbet. Agar mempermudah proses
+                        pembagian hadiah event - event yang berlaku.</h6>
                 </div>
             </div>
 
