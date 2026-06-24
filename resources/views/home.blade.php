@@ -60,7 +60,7 @@
                     @endif
                     <a class="button-profile text-decoration-none text-white" href="{{ route('logout') }}">LOGOUT</a>
                 @endauth
-                <a class="button-gradient text-decoration-none text-white" href="https://preciseurl.net/rtp-gacor"><span
+                <a class="button-gradient text-decoration-none text-white" href="https://jetlinkr.co/rtpslotmg"><span
                         class="d-lg-none"><img src="/storage/page/icon/promo.webp" alt=""></span> POLA SLOT</a>
                 <a class="button-gradient text-decoration-none text-white" href="/lomba-freechip"><span
                         class="d-lg-none"><img src="/storage/page/icon/controller.webp" alt=""></span> EVENT FREECHIP</a>
