@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>{{ config('app.name', 'TIP4DQUIS') }} - @yield('title')</title>
+    <title>{{ config('app.name', 'ROKOKBETQUIS') }} - @yield('title')</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -170,12 +170,6 @@
 
     <footer class="bg-dark col-12 p-4">
         @yield('footer')
-
-        <div class="d-none">
-            <a href="http://47.95.151.193/">http://47.95.151.193/</a>
-            <a href="https://167.172.76.97">https://167.172.76.97/</a>
-            <a href="https://gpshof.org">Agen Togel</a>
-        </div>
     </footer>
 
 
