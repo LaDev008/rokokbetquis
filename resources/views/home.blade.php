@@ -24,12 +24,12 @@
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
                         <img src="/storage/page/image/banner-1.webp" class="d-block w-100 home-carousel-image"
-                            alt="Link anti nawala nono4d">
+                            alt="banner 1">
                     </div>
 
                     <div class="carousel-item">
                         <img src="/storage/page/image/banner-2.webp" class="d-block w-100 home-carousel-image"
-                            alt="Link anti nawala nana4d">
+                            alt="banner 2">
                     </div>
                 </div>
 
